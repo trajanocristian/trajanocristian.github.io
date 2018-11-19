@@ -1,0 +1,204 @@
+body
+	{
+		font-family: proximanova-light,Arial,sans-serif;
+		background-color: ;
+		  padding: 0px;
+}
+
+h1{
+	background-color: #3B9C00;
+	text-align: center;
+	color: #FFFFFF;
+	padding: 20px;
+	margin-top: 1px;
+	margin-bottom: 20px;
+
+
+}
+.font1 {
+	font-family: Times New Roman", Times, serif;
+	font-size: 150%;
+}
+
+	#customers {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+ 	float: left;
+    width: 65%;
+
+
+
+    
+}
+
+#customers th{
+	color: #ddd;
+
+}
+
+.TABELA, .JOGOS{
+	float: left;
+	font-size: 150%;
+	padding-bottom: 15px;
+
+
+}
+.RODADA {
+	text-align: center;
+	border-width:2px solid #ddd;
+	border-top: 2px solid #ddd;
+    border-collapse: collapse;
+}
+
+#customers td, #customers th, #customers tr {
+     border-bottom-width: 2px solid #ddd;
+     border-top: 1px solid #ddd;
+border-collapse: collapse;
+    padding: 8px;
+
+
+}
+
+#customers :nth-child(even)
+
+tr: {background=border-color: ;
+
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+  
+}
+.tamanho {
+	width: 3%;
+
+
+}
+.right {
+width: 4%;
+text-align: center;
+}
+.back {
+	background-color: #F2F2F2;
+	text-align: center;
+	width: 5%;
+}
+.align {
+	text-align: center;
+	width: 5%;
+}
+.tamanho1 {
+	width: 15%;
+
+
+}
+
+.vd {
+	color: green;
+	float: left;
+}
+.verm {
+	color: red;
+	float: left;
+	
+}
+.img {
+	width: 50px;
+
+
+}
+.table22 th, .table22 td {
+float: ; left: 
+width: 20%;
+padding-top: 5px;
+padding-bottom: 5px;
+text-align: center;
+ border-bottom: 2px solid #ddd;
+border-collapse: collapse;
+padding: 0px;
+}
+.table22 th{
+ border: 2px solid #ddd;
+ padding: 13px;
+
+
+}
+
+
+ }
+
+.table23 {
+float: ;
+
+
+}
+.linha {
+	clear: both;
+}
+
+#coluna2 {
+	float: left;
+	background-color: #ddd;
+	margin-left: 2%;
+	width: 1px;
+	height: 775px;
+}
+.PA {
+	text-align: left;
+	font-size: 20px;
+	padding-top: 50px;
+}
+.tb2 {
+	text-align: left;
+}
+.tb2b {
+	text-align:;
+}
+.tb3 {
+	
+}
+#customers1 {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+#customers1 td, #customers1 th {
+    border-bottom: 1px solid #ddd;
+    border-collapse: collapse;
+    padding: 15px;
+    width: 50px;
+
+}
+#customers1 th {
+	border-top: 1px solid #ddd;
+}
+#customers1 tr:nth-child(even){background-color: ;}
+
+#customers1 tr:hover {background-color:;}
+
+#customers1 th {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: left;
+    background-color: 
+    color: white;
+}
+.foto {
+	width: 50px;
+
+}
+.nun {
+	font-size: 25px;
+	float: left;
+}
+.ln4 {
+	float: left;
+}
+.ln3 {
+	float: right;
+}
+.top {
+}
